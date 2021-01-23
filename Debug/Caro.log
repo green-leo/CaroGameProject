@@ -1,0 +1,11 @@
+﻿  Game.cpp
+  main.cpp
+  Map.cpp
+c:\users\fr_pl\desktop\project\caro\caro\src\map.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\fr_pl\desktop\project\caro\caro\src\map.cpp(440): warning C4018: '<': signed/unsigned mismatch
+c:\users\fr_pl\desktop\project\caro\caro\src\map.cpp(482): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+  TextureManager.cpp
+  Generating Code...
+c:\users\fr_pl\desktop\project\caro\caro\src\menu.cpp(242): warning C4715: 'Menu::handleEvents': not all control paths return a value
+  Caro.vcxproj -> C:\Users\FR_PL\Desktop\Project\Caro\Debug\Caro.exe
